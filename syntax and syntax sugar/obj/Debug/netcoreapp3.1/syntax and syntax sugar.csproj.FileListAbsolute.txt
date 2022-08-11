@@ -1,0 +1,14 @@
+C:\Users\zjole\Desktop\repos\syntax and syntax sugar\syntax and syntax sugar\bin\Debug\netcoreapp3.1\syntax and syntax sugar.exe
+C:\Users\zjole\Desktop\repos\syntax and syntax sugar\syntax and syntax sugar\bin\Debug\netcoreapp3.1\syntax and syntax sugar.deps.json
+C:\Users\zjole\Desktop\repos\syntax and syntax sugar\syntax and syntax sugar\bin\Debug\netcoreapp3.1\syntax and syntax sugar.runtimeconfig.json
+C:\Users\zjole\Desktop\repos\syntax and syntax sugar\syntax and syntax sugar\bin\Debug\netcoreapp3.1\syntax and syntax sugar.runtimeconfig.dev.json
+C:\Users\zjole\Desktop\repos\syntax and syntax sugar\syntax and syntax sugar\bin\Debug\netcoreapp3.1\syntax and syntax sugar.dll
+C:\Users\zjole\Desktop\repos\syntax and syntax sugar\syntax and syntax sugar\bin\Debug\netcoreapp3.1\syntax and syntax sugar.pdb
+C:\Users\zjole\Desktop\repos\syntax and syntax sugar\syntax and syntax sugar\obj\Debug\netcoreapp3.1\syntax and syntax sugar.csproj.AssemblyReference.cache
+C:\Users\zjole\Desktop\repos\syntax and syntax sugar\syntax and syntax sugar\obj\Debug\netcoreapp3.1\syntax and syntax sugar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zjole\Desktop\repos\syntax and syntax sugar\syntax and syntax sugar\obj\Debug\netcoreapp3.1\syntax and syntax sugar.AssemblyInfoInputs.cache
+C:\Users\zjole\Desktop\repos\syntax and syntax sugar\syntax and syntax sugar\obj\Debug\netcoreapp3.1\syntax and syntax sugar.AssemblyInfo.cs
+C:\Users\zjole\Desktop\repos\syntax and syntax sugar\syntax and syntax sugar\obj\Debug\netcoreapp3.1\syntax and syntax sugar.csproj.CoreCompileInputs.cache
+C:\Users\zjole\Desktop\repos\syntax and syntax sugar\syntax and syntax sugar\obj\Debug\netcoreapp3.1\syntax and syntax sugar.dll
+C:\Users\zjole\Desktop\repos\syntax and syntax sugar\syntax and syntax sugar\obj\Debug\netcoreapp3.1\syntax and syntax sugar.pdb
+C:\Users\zjole\Desktop\repos\syntax and syntax sugar\syntax and syntax sugar\obj\Debug\netcoreapp3.1\syntax and syntax sugar.genruntimeconfig.cache
